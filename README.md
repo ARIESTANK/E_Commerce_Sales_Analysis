@@ -172,12 +172,12 @@ The full 12-page PDF report (`Myanmar_Ecommerce_Analysis_Report.pdf`) includes:
 
 ## 👤 Author
 
-**[Your Name]**
+**Kaung Khant Lin**
 Junior Data Analyst | Myanmar
 
-- 📧 your.email@gmail.com
-- 💼 [LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- 🐙 [GitHub](https://github.com/YOUR_USERNAME)
+- 📧 kaungkhantlin2332003@gmail.com
+- 💼 [LinkedIn Profile](https://www.linkedin.com/in/kaung-khant-lin-792b13390/)
+- 🐙 [GitHub](https://github.com/ARIESTANK)
 
 ---
 
@@ -189,4 +189,4 @@ No real customer or business data is included.
 ---
 
 *Made with Python · Power BI · ReportLab · ❤️ from Myanmar 🇲🇲*
-"# E_Commerce_Sales_Analysis" 
+"# E_Commerce_Sales_Analysis"
